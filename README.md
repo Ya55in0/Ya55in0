@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassino</h1>
-<h3 align="center">A java developer from germany</h3>
-
 - 🔭 I’m currently working on **TeamHoly.de / Vypemc.net**
 
-- 📫 How to reach me **Discord -> Yassino#0010**
+- 📫 My Discord Tag **Yassino#0010**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
