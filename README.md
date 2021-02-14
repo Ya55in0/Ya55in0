@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TeamHoly.de & Vypemc.net**
 
-- 📫 My Discord Tag **Yassino#0010**
+- 📫 My Discord tag **Yassino#0010**
 
 
 <h3 align="left">Languages and Tools:</h3>
